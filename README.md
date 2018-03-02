@@ -1,1 +1,3 @@
 # GenAlgSS
+
+Genetic algorithm - unfinished.
